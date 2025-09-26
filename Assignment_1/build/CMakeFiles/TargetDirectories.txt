@@ -1,0 +1,3 @@
+/mnt/d/Code/Course/Visual Computing/Assignment_1/build/CMakeFiles/panorama.dir
+/mnt/d/Code/Course/Visual Computing/Assignment_1/build/CMakeFiles/edit_cache.dir
+/mnt/d/Code/Course/Visual Computing/Assignment_1/build/CMakeFiles/rebuild_cache.dir
