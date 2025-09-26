@@ -1,0 +1,6 @@
+detector=sift
+blend=feather
+ratio=0.8
+ransac_iter=1000
+reproj_th=3
+debug=1

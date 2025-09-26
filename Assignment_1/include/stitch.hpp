@@ -12,5 +12,7 @@ cv::Mat stitchImages(const std::vector<cv::Mat>& imgs,
                      double reprojThresh,
                      double ratio,
                      bool debug,
-                     const std::string& outDir);
+                     const std::string& outDir,
+                     const std::string& setId,
+                     const std::string& pairId);
 }

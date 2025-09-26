@@ -96,9 +96,29 @@ data/                 # place your input images here (not tracked by default)
 CMakeLists.txt
 ```
 
-### Deliverables (suggested)
-- Source code: this repository (CMake + headers + sources)
-- Results: `results/run_.../panorama.jpg` and diagnostics
-- Report (3–4 pages): methodology, screenshots, tables, analysis, conclusions
+## Dataset
 
+### Inroom
+
+**Indoor Scene (Office)**
+
+- **Lighting:** Mixed natural daylight and warm ceiling light; moderate brightness.
+- **Motion Blur:** Slight, from handheld capture.
+- **Texture Richness:** Good; mix of smooth (desk, screens) and varied (clothes, curtains, papers).
+
+### Outroom
+
+**Outdoor Scene (Courtyard)**
+
+- **Lighting:** Bright natural daylight, evenly lit with minimal shadows.
+- **Motion Blur:** None noticeable; images appear sharp.
+- **Texture Richness:** High; variety of textures from brick pavement, wooden bench, glass windows, concrete posts, foliage.
+
+### Laptop
+
+**Lighting:** Low ambient light with strong screen illumination.
+
+**Motion Blur:** Minimal; images mostly sharp.
+
+**Texture Richness:** Moderate; smooth laptop surface contrasted with rough paper note, wooden desk, and other small objects.
 

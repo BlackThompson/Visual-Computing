@@ -1,0 +1,2 @@
+run_id,detector,thresh_px,iters,inliers,inlier_ratio,ransac_time_ms,avg_reproj_error_px,h00,h01,h02,h10,h11,h12,h20,h21,h22
+run_20250926_140607,sift,3.000,1000,414,0.807018,681.466,0.860537,0.641565,-0.023765,458.614009,-0.158289,0.841586,-21.283679,-0.000226,0.000028,0.840374

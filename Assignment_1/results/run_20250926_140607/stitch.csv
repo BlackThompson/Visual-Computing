@@ -1,0 +1,2 @@
+run_id,detector,thresh_px,blending,warp_time_ms,blend_time_ms,seam_error_mean,seam_error_max,out_w,out_h
+run_20250926_140607,sift,3.000,overlay,3105.693,3.484,44.052527,253.000000,1792,2277

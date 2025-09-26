@@ -1,0 +1,3 @@
+run_id,detector,knn_k,raw_matches,raw_match_time_ms,ratio,kept_matches,filter_time_ms,dist_mean,dist_std
+run_20250926_155557,sift,2,1695,1398.345,0.80,580,0.034,134.245070,57.319454
+run_20250926_155557,sift,2,2984,1702.483,0.80,359,0.035,165.991364,65.924500

@@ -1,0 +1,3 @@
+run_id,detector,thresh_px,blending,warp_time_ms,blend_time_ms,seam_error_mean,seam_error_max,out_w,out_h
+run_20250926_155625,orb,4.000,feather,3239.670,129.013,43.903956,253.000000,1778,2246
+run_20250926_155625,orb,4.000,feather,13675.338,829.722,56.098936,254.000000,4461,4396

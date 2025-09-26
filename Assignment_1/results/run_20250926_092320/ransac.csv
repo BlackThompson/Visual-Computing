@@ -1,0 +1,2 @@
+run_id,detector,thresh_px,iters,inliers,inlier_ratio,ransac_time_ms,avg_reproj_error_px,h00,h01,h02,h10,h11,h12,h20,h21,h22
+run_20250926_092320,akaze,4.000,2000,322,0.856383,927.030,1.264175,0.805153,0.014101,419.767617,-0.080869,0.899613,20.316138,-0.000138,0.000016,1.000000

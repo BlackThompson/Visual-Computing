@@ -1,0 +1,5 @@
+run_id,detector,image_role,num_keypoints,detect_time_ms,describe_time_ms,avg_keypoint_scale,avg_response
+run_20250926_155625,orb,pano,5000,20.775,16.620,53.860,0.003
+run_20250926_155625,orb,new,5000,13.466,18.518,53.860,0.001
+run_20250926_155625,orb,pano,5000,25.482,33.135,53.860,0.002
+run_20250926_155625,orb,new,4919,17.224,19.980,53.124,0.000

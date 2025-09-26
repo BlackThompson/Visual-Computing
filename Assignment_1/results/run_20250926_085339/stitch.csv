@@ -1,0 +1,2 @@
+run_id,detector,thresh_px,blending,warp_time_ms,blend_time_ms,seam_error_mean,seam_error_max,out_w,out_h
+run_20250926_085339,akaze,4.000,feather,1524.839,57.804,74.744441,255.000000,1421,1360

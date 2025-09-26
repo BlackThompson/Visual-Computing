@@ -1,0 +1,3 @@
+run_id,detector,image_role,num_keypoints,detect_time_ms,describe_time_ms,avg_keypoint_scale,avg_response
+run_20250926_092155,akaze,pano,6524,1760.225,1260.687,14.437,0.003
+run_20250926_092155,akaze,new,6511,1466.830,1298.046,13.922,0.003

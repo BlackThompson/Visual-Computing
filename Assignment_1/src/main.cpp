@@ -22,6 +22,7 @@ int main(int argc, char** argv) {
     bool debug = false;
 
     std::vector<std::string> paths;
+    std::string setId, pairId;
     for (int i = 1; i < argc; ++i) {
         std::string a = argv[i];
         if (a == "--det" && i+1 < argc) {
@@ -41,6 +42,10 @@ int main(int argc, char** argv) {
             reproj = std::stod(argv[++i]);
         } else if (a == "--debug") {
             debug = true;
+        } else if (a == "--set" && i+1 < argc) {
+            setId = argv[++i];
+        } else if (a == "--pair" && i+1 < argc) {
+            pairId = argv[++i];
         } else if (!a.empty() && a[0] != '-') {
             paths.push_back(a);
         }
@@ -62,7 +67,7 @@ int main(int argc, char** argv) {
                   tm.tm_year+1900, tm.tm_mon+1, tm.tm_mday, tm.tm_hour, tm.tm_min, tm.tm_sec);
     std::string outDir = buf;
 
-    cv::Mat pano = vc::stitchImages(imgs, det, bm, ransacIter, reproj, ratio, debug, outDir);
+    cv::Mat pano = vc::stitchImages(imgs, det, bm, ransacIter, reproj, ratio, debug, outDir, setId, pairId);
     if (pano.empty()) { std::cerr << "Stitch failed\n"; return 1; }
     std::string outPano = outDir + "/panorama.jpg";
     cv::imwrite(outPano, pano);

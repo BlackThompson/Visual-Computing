@@ -1,0 +1,2 @@
+run_id,detector,knn_k,raw_matches,raw_match_time_ms,ratio,kept_matches,filter_time_ms,dist_mean,dist_std
+run_20250926_075507,orb,2,5000,2646.557,0.80,910,0.059,28.257143,9.909138

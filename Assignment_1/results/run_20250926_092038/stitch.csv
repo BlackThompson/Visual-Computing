@@ -1,0 +1,2 @@
+run_id,detector,thresh_px,blending,warp_time_ms,blend_time_ms,seam_error_mean,seam_error_max,out_w,out_h
+run_20250926_092038,sift,4.000,feather,14970.617,858.708,49.795206,255.000000,4241,5003

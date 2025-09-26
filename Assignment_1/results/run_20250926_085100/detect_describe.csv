@@ -1,0 +1,3 @@
+run_id,detector,image_role,num_keypoints,detect_time_ms,describe_time_ms,avg_keypoint_scale,avg_response
+run_20250926_085100,sift,pano,3692,2790.760,1553.905,14.769,0.026
+run_20250926_085100,sift,new,3806,2123.029,1626.637,15.376,0.027
