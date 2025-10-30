@@ -1,0 +1,8 @@
+# VS build outputs
+Assignment_2/build/
+Assignment_2/copy/
+
+# DLLs anywhere else
+*.dll
+*.pdb
+*.lib

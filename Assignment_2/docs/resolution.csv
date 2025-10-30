@@ -1,0 +1,9 @@
+Configuration,Average FPS,Frame Time (ms),CPU Time (ms),GPU Upload (ms),GPU Submit (ms),End-to-End (ms),Duplication Rate (%),Sample Count
+"None | CPU | 0x0 | Release | Transform OFF",0.00,0.00,0.00,0.00,0.00,0.00,0.00,0
+"None | CPU | 640x360 | Release | Transform OFF",30.43,32.87,0.37,0.00,0.07,0.45,100.00,90
+"None | CPU | 960x540 | Release | Transform OFF",20.23,49.42,1.54,0.00,0.10,1.64,98.89,90
+"None | CPU | 1280x720 | Release | Transform OFF",10.12,98.82,2.81,0.00,0.10,2.91,0.00,90
+"None | GPU | 0x0 | Release | Transform OFF",0.00,0.00,0.00,0.00,0.00,0.00,0.00,0
+"None | GPU | 640x360 | Release | Transform OFF",30.41,32.89,0.00,0.33,0.09,0.42,100.00,90
+"None | GPU | 960x540 | Release | Transform OFF",20.24,49.42,0.00,0.98,0.12,1.10,96.67,90
+"None | GPU | 1280x720 | Release | Transform OFF",10.12,98.82,0.00,2.02,0.10,2.12,0.00,90

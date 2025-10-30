@@ -1,0 +1,9 @@
+Configuration,Average FPS,Frame Time (ms),CPU Time (ms),GPU Upload (ms),GPU Submit (ms),End-to-End (ms),Duplication Rate (%),Sample Count
+"None | CPU | 1280x720 | Release | Transform OFF",10.12,98.84,2.97,0.00,0.10,3.08,0.00,90
+"None | GPU | 1280x720 | Release | Transform OFF",10.12,98.84,0.00,1.87,0.11,1.98,0.00,90
+"Pixelate | CPU | 1280x720 | Release | Transform OFF",10.11,98.86,2.67,0.00,0.10,2.77,0.00,90
+"Pixelate | GPU | 1280x720 | Release | Transform OFF",10.10,99.03,0.00,1.90,0.10,2.00,0.00,90
+"Comic | CPU | 1280x720 | Release | Transform OFF",10.11,98.87,17.70,0.00,0.17,17.87,0.00,90
+"Comic | GPU | 1280x720 | Release | Transform OFF",10.10,99.03,0.00,1.96,0.10,2.06,0.00,90
+"Edge | CPU | 1280x720 | Release | Transform OFF",10.10,99.03,3.81,0.00,0.12,3.93,0.00,90
+"Edge | GPU | 1280x720 | Release | Transform OFF",10.12,98.84,0.00,2.11,0.10,2.21,0.00,90

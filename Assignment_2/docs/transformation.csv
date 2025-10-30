@@ -1,0 +1,5 @@
+Configuration,Average FPS,Frame Time (ms),CPU Time (ms),GPU Upload (ms),GPU Submit (ms),End-to-End (ms),Duplication Rate (%),Sample Count
+"None | CPU | 1280x720 | Release | Transform OFF",10.12,98.86,2.92,0.00,0.12,3.03,0.00,90
+"None | CPU | 1280x720 | Release | Transform ON",10.10,99.00,4.69,0.00,0.12,4.81,0.00,90
+"None | GPU | 1280x720 | Release | Transform OFF",10.10,99.02,0.00,1.88,0.11,2.00,0.00,90
+"None | GPU | 1280x720 | Release | Transform ON",10.12,98.81,0.00,1.94,0.14,2.08,0.00,79
